@@ -14,4 +14,5 @@
     <string name="username">Username</string>
     <string name="message">Message</string>
     <string name="default_val">default_val</string>
+    <string name="who">Кто вор?</string>
 </resources>
