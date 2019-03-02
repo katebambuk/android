@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Приложулькин раз</string>
+    <string name="simple_question">Как к тебе обращаться?</string>
+    <string name="hint">Введи сюда буковки</string>
+    <string name="basic_appeal">Ну ты и сыч,</string>
+    <string name="threat">Ъуъ! Введи имя!</string>
+    <string name="btn_text">Ну-ка</string>
+</resources>
