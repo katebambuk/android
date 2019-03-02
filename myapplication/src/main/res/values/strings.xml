@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application 5</string>
+    <string name="about_title">О программе</string>
+    <string name="about_text">
+    У лукоморья дуб зелёный;\n
+    Златая цепь на дубе том:\n
+    И днём и ночью <b>кот учёный</b>\n
+    Всё ходит по цепи кругом;\n
+    Идёт <b>направо</b> - песнь заводит,\n
+    <b>Налево</b> - сказку говорит.</string>
+    <string name="screen_about">О программе</string>
+    <string name="screen_birthday">Другой экран</string>
+    <string name="title_activity_birthday">Еще один экран</string>
+    <string name="username">Username</string>
+    <string name="message">Message</string>
+    <string name="default_val">default_val</string>
+</resources>
